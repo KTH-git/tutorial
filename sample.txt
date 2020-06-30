@@ -2,5 +2,6 @@
 
 void main()
 {
+	int pull;
 	printf("Hello world \n");
 }
