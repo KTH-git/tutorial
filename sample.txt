@@ -3,6 +3,9 @@
 void main()
 {	
 	int sam;
+
+	int pull;
+
 	printf("Hello world \n");
 	
 }
